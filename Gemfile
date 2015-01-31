@@ -37,3 +37,6 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Enable browserify for JavaScript
+gem 'browserify-rails', '~> 0.6.0'

@@ -1,0 +1,16 @@
+{
+  "name": "multiple-bundles-example",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/browserify-rails/multiple-bundles-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/browserify-rails/multiple-bundles-example/issues"
+  },
+  "homepage": "https://github.com/browserify-rails/multiple-bundles-example",
+  "dependencies": {
+    "browserify": "4.2.3"
+  }
+}

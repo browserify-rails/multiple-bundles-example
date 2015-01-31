@@ -1,0 +1,11 @@
+debug: true
+javascript:
+  common:
+    require:
+      - ./robot
+  beep:
+    external:
+      - ./robot
+  boop:
+    external:
+      - ./robot
